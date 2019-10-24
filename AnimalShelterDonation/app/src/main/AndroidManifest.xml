@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kiriel.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".About" />
+        <activity android:name=".AccountOverview" />
+        <activity android:name=".AdoptedAnimal" />
+        <activity android:name=".AdoptedAnimal1" />
+        <activity android:name=".AdoptedAnimal2" />
+        <activity android:name=".AdoptedAnimal3" />
+        <activity android:name=".AdoptedAnimal4" />
+        <activity android:name=".AdoptedAnimal5" />
+        <activity android:name=".AdoptedAnimal6" />
+        <activity android:name=".AdoptedAnimal7" />
+        <activity android:name=".AdoptedAnimal8" />
+        <activity android:name=".AnimalAdoption" />
+        <activity android:name=".AnimalShelter" />
+        <activity android:name=".DonateMoney" />
+        <activity android:name=".Feedback" />
+        <activity android:name=".InformationReceived" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".ShelterCampaign" />
+        <activity android:name=".ShelterCampaign1" />
+        <activity android:name=".ShelterCampaign2" />
+        <activity android:name=".ThankYouActivity" />
+        <activity android:name=".ValidationActivity" />
+        <activity android:name=".UserAccount"></activity>
+    </application>
+
+</manifest>

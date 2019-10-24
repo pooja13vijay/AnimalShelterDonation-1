@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/8642494dc690c8b3d936c638a048190b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/q10/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/bb86425eb3bbc052eff3f6b8a9b14344/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/c3e9ba6cfd90bf92178e493bd180fe6d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/82580a5a35cbfa2a1ec15419c3c8b7eb/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/3dd7e038fae7b9576e35817f57789307/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/5b3aa3b5a3bef1cbfb3990ee2be2d44c/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/a5b8581d3f3ae6d289347bb7b32cb633/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/023a0db14b06d1c723c524548701801d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/c44658db900f52ac4aed54d3aefef95b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/c185a367817610a58019fc81bd6afff7/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/905288c39680803b50dc1a77bf2e9d85/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a90aa97448ef3c59b6c5edac3c8582eb/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/2909be394121af4061f5799586b50a88/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/fa58b9507f2fee16420086177b490064/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/9d58c0c1561cef9203f407363b0d40f6/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/8a0bae8627c7a65642341f4aeff7dd24/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/a474a2e47ab90af7efda2ea3a366de42/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/24cc630510d57e892b40a607390308c3/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/9353b14c19baa761ca181d4e64e7fc99/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/bc834386a5c6bb25b22e631f7b5fecf7/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/ccb960230e082e167c2232bea48978da/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63cd4f98b1a0ac9471c6122cd44f2c78/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/694fb0faa941db9008b1323087d73000/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/51b4225fbb7c6640b0ee1a731cf2b395/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2772b546c0d7eabbf1d3900e03b6bece/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:5:5-43:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/q10/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/bb86425eb3bbc052eff3f6b8a9b14344/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/q10/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/bb86425eb3bbc052eff3f6b8a9b14344/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:11:9-40
+activity#kiriel.myapplication.About
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:12:19-40
+activity#kiriel.myapplication.AccountOverview
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:13:9-53
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:13:19-50
+activity#kiriel.myapplication.AdoptedAnimal
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:14:19-48
+activity#kiriel.myapplication.AdoptedAnimal1
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:15:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:15:19-49
+activity#kiriel.myapplication.AdoptedAnimal2
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:16:19-49
+activity#kiriel.myapplication.AdoptedAnimal3
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:17:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:17:19-49
+activity#kiriel.myapplication.AdoptedAnimal4
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:18:19-49
+activity#kiriel.myapplication.AdoptedAnimal5
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:19:19-49
+activity#kiriel.myapplication.AdoptedAnimal6
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:20:19-49
+activity#kiriel.myapplication.AdoptedAnimal7
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:21:19-49
+activity#kiriel.myapplication.AdoptedAnimal8
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:22:19-49
+activity#kiriel.myapplication.AnimalAdoption
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:23:9-52
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:23:19-49
+activity#kiriel.myapplication.AnimalShelter
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:24:19-48
+activity#kiriel.myapplication.DonateMoney
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:25:9-49
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:25:19-46
+activity#kiriel.myapplication.Feedback
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:26:9-46
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:26:19-43
+activity#kiriel.myapplication.InformationReceived
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:27:9-57
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:27:19-54
+activity#kiriel.myapplication.LoginActivity
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:28:19-48
+activity#kiriel.myapplication.MainActivity
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:33:27-74
+activity#kiriel.myapplication.RegisterActivity
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:36:9-54
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:36:19-51
+activity#kiriel.myapplication.ShelterCampaign
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:37:19-50
+activity#kiriel.myapplication.ShelterCampaign1
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:38:9-54
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:38:19-51
+activity#kiriel.myapplication.ShelterCampaign2
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:39:9-54
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:39:19-51
+activity#kiriel.myapplication.ThankYouActivity
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:40:9-54
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:40:19-51
+activity#kiriel.myapplication.ValidationActivity
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:41:19-53
+activity#kiriel.myapplication.UserAccount
+ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:42:9-58
+	android:name
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml:42:19-46
+uses-sdk
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/8642494dc690c8b3d936c638a048190b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/8642494dc690c8b3d936c638a048190b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/q10/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/bb86425eb3bbc052eff3f6b8a9b14344/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/q10/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/bb86425eb3bbc052eff3f6b8a9b14344/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/c3e9ba6cfd90bf92178e493bd180fe6d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/c3e9ba6cfd90bf92178e493bd180fe6d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/82580a5a35cbfa2a1ec15419c3c8b7eb/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/82580a5a35cbfa2a1ec15419c3c8b7eb/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/3dd7e038fae7b9576e35817f57789307/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/3dd7e038fae7b9576e35817f57789307/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/5b3aa3b5a3bef1cbfb3990ee2be2d44c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/5b3aa3b5a3bef1cbfb3990ee2be2d44c/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/a5b8581d3f3ae6d289347bb7b32cb633/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/a5b8581d3f3ae6d289347bb7b32cb633/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/023a0db14b06d1c723c524548701801d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/023a0db14b06d1c723c524548701801d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/c44658db900f52ac4aed54d3aefef95b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/c44658db900f52ac4aed54d3aefef95b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/c185a367817610a58019fc81bd6afff7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/c185a367817610a58019fc81bd6afff7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/905288c39680803b50dc1a77bf2e9d85/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/905288c39680803b50dc1a77bf2e9d85/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a90aa97448ef3c59b6c5edac3c8582eb/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/a90aa97448ef3c59b6c5edac3c8582eb/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/2909be394121af4061f5799586b50a88/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/2909be394121af4061f5799586b50a88/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/fa58b9507f2fee16420086177b490064/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/fa58b9507f2fee16420086177b490064/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/9d58c0c1561cef9203f407363b0d40f6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/9d58c0c1561cef9203f407363b0d40f6/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/8a0bae8627c7a65642341f4aeff7dd24/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/8a0bae8627c7a65642341f4aeff7dd24/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/a474a2e47ab90af7efda2ea3a366de42/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/a474a2e47ab90af7efda2ea3a366de42/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/24cc630510d57e892b40a607390308c3/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/24cc630510d57e892b40a607390308c3/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/9353b14c19baa761ca181d4e64e7fc99/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/9353b14c19baa761ca181d4e64e7fc99/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/bc834386a5c6bb25b22e631f7b5fecf7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/bc834386a5c6bb25b22e631f7b5fecf7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/ccb960230e082e167c2232bea48978da/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /Users/q10/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/ccb960230e082e167c2232bea48978da/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63cd4f98b1a0ac9471c6122cd44f2c78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/63cd4f98b1a0ac9471c6122cd44f2c78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/694fb0faa941db9008b1323087d73000/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/694fb0faa941db9008b1323087d73000/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/51b4225fbb7c6640b0ee1a731cf2b395/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/51b4225fbb7c6640b0ee1a731cf2b395/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2772b546c0d7eabbf1d3900e03b6bece/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/q10/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2772b546c0d7eabbf1d3900e03b6bece/AndroidManifest.xml:20:5-44
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/q10/Downloads/AnimalShelterDonation/app/src/main/AndroidManifest.xml

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".ShelterCampaign1"
+    tools:layout_editor_absoluteY="81dp"
+    android:background="@drawable/dogprint"
+    android:backgroundTint="#80FFFFFF"
+    android:backgroundTintMode="src_over"
+    tools:targetApi="lollipop">
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="141dp"
+        android:layout_height="46dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/frame"
+        android:onClick="sendMessage_Button3"
+        android:text="@string/adopt_me"
+        android:textColor="@android:color/background_light"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView12"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.86" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="141dp"
+        android:layout_height="46dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/frame"
+        android:onClick="sendMessage_Button2"
+        android:text="@string/adopt_me"
+        android:textColor="@android:color/background_light"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView11"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="167dp"
+        android:layout_height="147dp"
+        android:layout_marginBottom="22dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintBottom_toTopOf="@+id/imageView11"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/huskypuppy2" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="167dp"
+        android:layout_height="147dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/huskypuppy1"
+        android:contentDescription="@string/todo" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="167dp"
+        android:layout_height="147dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="19dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView11"
+        app:srcCompat="@drawable/huskypuppy"
+        android:contentDescription="@string/todo" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="141dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="123dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="64dp"
+        android:background="@drawable/frame"
+        android:onClick="sendMessage_Button1"
+        android:text="@string/adopt_me"
+        android:textColor="@android:color/background_light"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/button6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView10"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

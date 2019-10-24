@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kiriel.myapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="kiriel.myapplication.About" />
+        <activity android:name="kiriel.myapplication.AccountOverview" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal1" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal2" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal3" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal4" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal5" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal6" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal7" />
+        <activity android:name="kiriel.myapplication.AdoptedAnimal8" />
+        <activity android:name="kiriel.myapplication.AnimalAdoption" />
+        <activity android:name="kiriel.myapplication.AnimalShelter" />
+        <activity android:name="kiriel.myapplication.DonateMoney" />
+        <activity android:name="kiriel.myapplication.Feedback" />
+        <activity android:name="kiriel.myapplication.InformationReceived" />
+        <activity android:name="kiriel.myapplication.LoginActivity" />
+        <activity android:name="kiriel.myapplication.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="kiriel.myapplication.RegisterActivity" />
+        <activity android:name="kiriel.myapplication.ShelterCampaign" />
+        <activity android:name="kiriel.myapplication.ShelterCampaign1" />
+        <activity android:name="kiriel.myapplication.ShelterCampaign2" />
+        <activity android:name="kiriel.myapplication.ThankYouActivity" />
+        <activity android:name="kiriel.myapplication.ValidationActivity" />
+        <activity android:name="kiriel.myapplication.UserAccount" />
+    </application>
+
+</manifest>
